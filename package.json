@@ -10,7 +10,7 @@
   "license": "MIT",
   "description": "",
   "dependencies": {
-    "ethers": "^6.13.2",
+    "ethers": "^5.0.0",
     "solc": "^0.8.7-fixed"
   }
 }
